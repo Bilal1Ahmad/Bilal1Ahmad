@@ -109,11 +109,11 @@ Projects involving **data analysis, visualization, and predictive modeling using
 
 <p align="center">
 
-<a href="#">
+<a href="https://www.linkedin.com/in/bilal-ahmad-mansoori/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="#">
+<a href="mansooribilalahmad@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 
