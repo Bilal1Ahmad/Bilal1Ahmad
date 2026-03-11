@@ -1,67 +1,50 @@
+<!-- ================= HEADER ================= -->
 
+<h1 align="center">Hi 👋, I'm Bilal Ahmad Mansoori</h1>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:00c6ff&height=220&section=header&text=Bilal%20Ahmad%20Mansoori&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Data+Science+Student;Artificial+Intelligence+Enthusiast;Future+Data+Scientist;Machine+Learning+Learner">
 </p>
 
-<h3 align="center">
-🚀 Data Science Student | 🤖 AI Enthusiast | 💻 Frontend Developer
-</h3>
-
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Data+Science+Student;Artificial+Intelligence+Enthusiast;Machine+Learning+Explorer;Frontend+Web+Developer;Future+AI%2FML+Engineer"/>
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="450">
 </p>
 
 ---
 
-# 👨‍💻 About Me
+# 🚀 About Me
 
-🎓 **B.Tech Computer Science (Data Science & AI)**
-🏫 Integral University, Lucknow
-
-💡 I enjoy building **AI systems, data-driven projects, and modern web applications.**
-
-🚀 Currently learning
-
-* Python for Data Science
-* Machine Learning
-* Deep Learning
-* Artificial Intelligence
-* Frontend Development
-
-🎯 **Goal:** Become a skilled **AI / ML Engineer**
+🎓 B.Tech Student in **Data Science & Artificial Intelligence**
+📊 Passionate about **Data Analysis, Machine Learning, and AI**
+💻 Interested in **building real-world intelligent systems**
+🌱 Currently learning **Python, Java, Machine Learning, and Data Science**
+🎯 Goal: Become a **Data Scientist / AI Engineer**
 
 ---
 
 # 🧠 Tech Stack
 
-### 👨‍💻 Programming
+### Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,html,css" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,c"/>
 </p>
 
-### 🤖 AI / Data Science
+### Data Science & Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
-</p>
-
-### ⚙️ Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohammad-Amaan756&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bilal1Ahmad&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Amaan756&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilal1Ahmad&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -70,7 +53,19 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Mohammad-Amaan756&theme=tokyonight&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com/?user=Bilal1Ahmad&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Bilal1Ahmad&theme=algolia&no-frame=true&row=1&column=6"/>
+
 </p>
 
 ---
@@ -78,16 +73,35 @@
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammad-Amaan756&theme=tokyo-night"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bilal1Ahmad&theme=tokyo-night"/>
+
 </p>
 
 ---
 
-# 🐍 Contribution Snake Animation
+# 📌 Featured Projects
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Mohammad-Amaan756/Mohammad-Amaan756/output/github-contribution-grid-snake.svg"/>
-</p>
+### 🏫 Student Management System
+
+A web platform to manage student records, academic details, and administration tasks.
+
+### 🏠 Hostel Room Allotment System
+
+Automates hostel room allocation based on availability and student data.
+
+### 📊 Data Science Mini Projects
+
+Projects involving **data analysis, visualization, and predictive modeling using Python**.
+
+---
+
+# 📚 Currently Learning
+
+✔ Machine Learning
+✔ Python for Data Science
+✔ Data Visualization
+✔ Artificial Intelligence Concepts
 
 ---
 
@@ -95,15 +109,11 @@
 
 <p align="center">
 
-<a href="https://linkedin.com">
+<a href="#">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://github.com/Mohammad-Amaan756">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="mailto:your@email.com">
+<a href="#">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 
@@ -111,21 +121,14 @@
 
 ---
 
-# 🚀 Current Focus
+# 👀 Profile Views
 
-🧠 Artificial Intelligence
-📊 Data Science & Machine Learning
-🌐 Frontend Web Development
-⚡ Building impactful AI projects
-
----
-
-# ⚡ Fun Fact
-
-💡 I love exploring **AI technologies and building creative projects.**
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Bilal1Ahmad&label=Profile%20views&color=blue&style=flat"/>
+</p>
 
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:243B55&height=120&section=footer"/>
+✨ *“Turning Data into Insights and Ideas into Reality.”*
 </p>
