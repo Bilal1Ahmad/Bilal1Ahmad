@@ -113,7 +113,7 @@ Projects involving **data analysis, visualization, and predictive modeling using
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:mansooribilalahmad@gmail.com">
+<a href="mansooribilalahmad@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 
